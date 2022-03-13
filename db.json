@@ -1,0 +1,158 @@
+{
+  "user": [
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "name": [
+        "Ethan Velasquez"
+      ],
+      "username": [
+        "zohecaca"
+      ],
+      "email": [
+        "pocujiloj@mailinator.com"
+      ],
+      "phone": [
+        "+1 (606) 691-6031"
+      ],
+      "url": [
+        "Labore et atque nihi"
+      ],
+      "id": 12
+    },
+    {
+      "name": [
+        "August Bryant"
+      ],
+      "username": [
+        "masecokop"
+      ],
+      "email": [
+        "xiqix@mailinator.com"
+      ],
+      "phone": [
+        "+1 (453) 389-3311"
+      ],
+      "url": [
+        "Laboriosam do cum e"
+      ],
+      "id": 13
+    },
+    {
+      "name": [
+        "Giacomo Hayes"
+      ],
+      "username": [
+        "wyxepujisu"
+      ],
+      "email": [
+        "jerywi@mailinator.com"
+      ],
+      "phone": [
+        "+1 (985) 622-6993"
+      ],
+      "url": [
+        "Facilis perferendis "
+      ],
+      "id": 15
+    },
+    {
+      "name": [
+        "Imon"
+      ],
+      "username": [
+        "imon444"
+      ],
+      "email": [
+        "imon123@gmail.com"
+      ],
+      "phone": [
+        "012654789"
+      ],
+      "url": [
+        "https://www.google.com/"
+      ],
+      "id": 18
+    },
+    {
+      "name": [
+        "Candace Moreno"
+      ],
+      "username": [
+        "mukizotan"
+      ],
+      "email": [
+        "pacofame@mailinator.com"
+      ],
+      "phone": [
+        "+1 (174) 142-5177"
+      ],
+      "url": [
+        "Elit esse deserunt "
+      ],
+      "id": 19
+    },
+    {
+      "name": [
+        "tanvir"
+      ],
+      "username": [
+        "tanvir7"
+      ],
+      "email": [
+        "tanvir@gmail.com"
+      ],
+      "phone": [
+        "012547899365"
+      ],
+      "url": [
+        "www.facebook.com"
+      ],
+      "id": 20
+    }
+  ]
+}
